@@ -1,0 +1,34 @@
+h1{
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    color: aqua;
+    font-kerning: calc();
+}
+
+h2{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-style: initial;
+    color: rgb(99, 63, 9);
+    font-kerning: inherit;
+}
+.big{
+    font-size: 70px;
+}
+.big.uppercase{
+    color: navy;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.biguppercase{
+    color:red;
+}
+h1 span{
+    color:blueviolet;
+}
+body{
+    background-color: goldenrod;
+    background-size: 12in;
+}
